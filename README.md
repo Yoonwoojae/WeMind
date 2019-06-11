@@ -1,0 +1,2 @@
+# WeMined
+CatchMined clone
