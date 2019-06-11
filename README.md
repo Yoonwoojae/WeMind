@@ -1,2 +1,2 @@
-# WeMined
-CatchMined clone
+# WeMind
+CatchMind clone
