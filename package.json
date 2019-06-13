@@ -1,0 +1,35 @@
+{
+  "name": "wemind",
+  "version": "1.0.0",
+  "description": "CatchMind clone",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoonwoojae/WeMind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoonwoojae/WeMind/issues"
+  },
+  "homepage": "https://github.com/Yoonwoojae/WeMind#readme",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "eslint": "^5.16.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.3",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  }
+}
